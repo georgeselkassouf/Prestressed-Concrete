@@ -1,4 +1,4 @@
-# Prestressed Concrete Project
+# DEscription
 
 The objective of this project is to analyze a 3-span continuous beam structure. This beam is subjected to a prestressing force and to external loads. 
 
