@@ -4,7 +4,7 @@ The objective of this project is to analyze a 3-span continuous beam structure. 
 
 # User Input
 
-The user has the freedom to input one point load and/or one distributed load per span, the prestressing force, the equation of the prestressing tendon as well as the cross section's properties.
+The user has the freedom to input one point load and/or one distributed load per span, the prestressing force, the equation of the prestressing tendon as well as the cross section's properties. The inputs have to be inserted in the first couple of lines in the code.
 
 # Output
 
